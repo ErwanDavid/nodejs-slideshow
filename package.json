@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-slideshow",
+  "version": "1.0.0",
+  "description": "NodeJS slideshow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Leo RASPAUD",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2",
+    "socket.io": "^2.0.3"
+  }
+}
